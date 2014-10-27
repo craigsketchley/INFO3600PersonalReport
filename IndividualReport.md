@@ -57,7 +57,7 @@ Further to the previously mentioned roles, there were also a number of tasks not
 
 Please find all the commits I made throughout the semester [here](https://bitbucket.org/mtro1538/vc-heart/commits/all?search=user(Craig)). Almost all of the commits were as a part of a pair-programming group; specifically with Rohan, with the occasional pair-programming session with Mike or Ricky. [Crucible](http://codiographers.cloudapp.net:8060/changelog/vc-heart) offered some statistics for team member commits shown here:
 
-![Commits](CrucibleCommits.png "Crucible commits for Craig Sketchley")
+![Commits](https://bitbucket.org/mtro1538/vc-heart/wiki/TasksCompleted/Craig/CrucibleCommits.png "Crucible commits for Craig Sketchley")
 
 The graph demonstrates a distributed amount of commits over the course of the semester. These commits include pair-programming sessions with other users and therefore do not include commits made by any team member I pair-programmed with. Rohan and myself were [allocated the OpenCL implementation epic](../../TeamMeetings/18-8-2014.md) during the week 4 team meeting and all of the coding work was contributing towards that.
 
