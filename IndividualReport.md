@@ -34,7 +34,7 @@ As Wiki & Bitbucket Manager, the majority of work completed was during the proje
 
 Ongoing work throughout the semester included:
 
-* Ensuring Wiki & Bitbucket contributions are kept to a high standard [LINKS!?].
+* Ensuring Wiki & Bitbucket contributions are kept to a high standard.
 * Respond to queries regarding [Bitbucket use](BitBucketSupport.png) or Wiki contribution.
 
 #### Shadow Mercurial Expert
